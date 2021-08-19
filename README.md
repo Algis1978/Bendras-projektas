@@ -4,7 +4,6 @@
 
 Savarankiški darbai BIT Javascript mokymuose (pradžios data: 2021 m. birželio 21 d.);<br>
 Darbai atliekami atsižvelgiant į reikalavimus prisitaikančiam dizainui ir teksto skaitytuvo darbui.<br>
-Darbų pavyzdžiai pasiekiami iš vieno nuorodinio puslapio:
 * [„Bendras pojektas“](https://algis1978.github.io/Bendras-projektas/)
 
 
